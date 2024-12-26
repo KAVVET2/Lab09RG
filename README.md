@@ -4,3 +4,9 @@ Q1
 
 Q2 
 ![image](https://github.com/user-attachments/assets/39de34c7-60ae-4351-a79d-2bdb73d7c5cf)
+
+Q3
+img 1:
+![image](https://github.com/user-attachments/assets/4f7c4fad-aaf9-4f65-a665-73fba62c50f5)
+img2:
+![image](https://github.com/user-attachments/assets/a0d1dfe6-c20f-4aff-9c2a-d88b9d6eba71)
