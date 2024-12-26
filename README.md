@@ -10,3 +10,6 @@ img 1:
 ![image](https://github.com/user-attachments/assets/4f7c4fad-aaf9-4f65-a665-73fba62c50f5)
 img2:
 ![image](https://github.com/user-attachments/assets/a0d1dfe6-c20f-4aff-9c2a-d88b9d6eba71)
+
+Q5 
+![image](https://github.com/user-attachments/assets/72fc7064-57c2-4244-9ba7-adb2aa5e8f86)
